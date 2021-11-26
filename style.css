@@ -32,3 +32,21 @@ div#weather-forecast {
 div#current-temp {
     display: flex;
 }
+div#current-weather-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+div#current-temp {
+    display: flex;
+    align-items: center;
+}
+.date-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+img.w-icon1 {
+    heigt: 10px;
+    height: 150px;
+}
