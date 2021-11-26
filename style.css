@@ -15,7 +15,7 @@ body {
     justify-content: space-evenly;
     background-color: #000000ba;
     border-radius: 20px;
-    padding: 50px;
+    
 }
 div#weather-forecast {
     display: flex;
